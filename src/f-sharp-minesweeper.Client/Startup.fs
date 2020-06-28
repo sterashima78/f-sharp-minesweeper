@@ -1,4 +1,4 @@
-namespace f_sharp_minesweeper.Client
+namespace FSharpMinesweeper.Client
 
 open Microsoft.AspNetCore.Components.WebAssembly.Hosting
 open Bolero.Remoting.Client

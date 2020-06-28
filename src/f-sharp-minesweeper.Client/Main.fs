@@ -1,4 +1,4 @@
-module f_sharp_minesweeper.Client.Main
+module FSharpMinesweeper.Client.Main
 
 open System
 open Elmish
